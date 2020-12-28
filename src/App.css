@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    width: 100%;
+    margin: 5px auto;
+}
+
+.App-header {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: #eef1eb;
+    color: rgb(184, 71, 51);
+    width:100%;
+    font-size: 25px;
+}
